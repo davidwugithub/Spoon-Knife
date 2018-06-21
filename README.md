@@ -4,6 +4,7 @@
 ### Change for only test2-branch
 ### Change for upstream
 ### Change for staging
+### Create a test3-branch on the remote "stating" via "git push staging test3-branch"
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
