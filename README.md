@@ -1,6 +1,12 @@
 ### Well hello there!
 ### 06/21/2018
+<<<<<<< HEAD
 ### A test2-branch is created.
+=======
+### Change for test2-branch
+### Change for only test2-branch
+### Change for upstream
+>>>>>>> 06a8a305bbddbcdcbc4b551fdab8195cd7d521fe
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
